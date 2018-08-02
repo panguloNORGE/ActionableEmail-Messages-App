@@ -4,7 +4,7 @@ Actionable email app that turns email contents into tasks in SFDC
 To build this app the following configurations and code are needed. Steps:
 
 1-In SFDC (setup) search for Email services and create a new email service. See screenshot in this GIT repository:new email service
-(notice you will an email destination address where emails have to be sent)
+(notice you will get an email destination address by default where emails have to be sent)
 
 
 2-This email service will need an apex class in order to convert the contents of the email into tasks in SFDC. See code uploaded in this repository and screenshot STEP2
